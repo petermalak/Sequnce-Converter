@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1544727110 source:c:\users\peter\desktop\assignment 4\main.cpp
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	"windows.h"
+	<iomanip>
+
+1544727596 source:c:\users\peter\desktop\assignment 4\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+	<bits/stdc++.h>
+
+1544727552 c:\users\peter\desktop\assignment 4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<bits/stdc++.h>
+
+1544715079 c:\users\peter\desktop\assignment 4\include\sequence.h
+	<bits/stdc++.h>
+	<iostream>
+
+1544726953 source:c:\users\peter\desktop\assignment 4\src\sequence.cpp
+	"Sequence.h"
+	"DNA.h"
+	<bits/stdc++.h>
+
+1544726847 source:c:\users\peter\desktop\assignment 4\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544727582 c:\users\peter\desktop\assignment 4\include\protein.h
+	"Sequence.h"
+	"DNA.h"
+	<bits/stdc++.h>
+
+1544518368 source:c:\users\peter\desktop\assignment 4\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1544518368 c:\users\peter\desktop\assignment 4\include\codonstable.h
+	<cstring>
+	<fstream>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1544726847 source:c:\users\peter\desktop\assignment 4\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544726847 c:\users\peter\desktop\assignment 4\include\rna.h
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<bits/stdc++.h>
+
